@@ -93,7 +93,7 @@ function LogoMark({ style }: { style?: CSSProperties }) {
         fontSize="38"
         letterSpacing="-0.02em"
       >
-        SUPRIYA
+        Suppu
       </text>
       <text
         x="178"
@@ -105,7 +105,7 @@ function LogoMark({ style }: { style?: CSSProperties }) {
         fontSize="26"
         letterSpacing="0.26em"
       >
-        THAPALIYA
+        Babby
       </text>
       <g opacity="0.95">
         <circle cx="327" cy="28" r="9" stroke="#FFFFFF" strokeWidth="1.2" fill="none" />
